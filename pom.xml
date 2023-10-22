@@ -506,7 +506,7 @@
     <snapshotRepository>
     <id>snapshots</id>
     <name>Snapshots</name>
-    <url>http://18.219.133.248:8081/repository/maven-snapshots//</url>
+    <url>http://18.219.133.248:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 
   </distributionManagement>
